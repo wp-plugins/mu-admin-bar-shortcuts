@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: multiuser, admin bar
 Requires at least: 3.0
 Tested up to: 3.1.2
-Stable tag: trunk
+Stable tag: 1.0
 
 This is a simple plugin that adds plugin & theme add & manage shortcut links to the admin bar for Multisite managers.
 
